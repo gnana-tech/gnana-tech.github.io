@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://gnana-tech.github.io/blog/</loc>
+    <lastmod>2020-09-25T07:07:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gnana-tech.github.io/</loc>
+    <lastmod>2020-09-25T07:07:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gnana-tech.github.io/blog/20200929-01-post/</loc>
+    <lastmod>2020-09-25T07:07:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gnana-tech.github.io/author/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gnana-tech.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gnana-tech.github.io/author/gnana/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gnana-tech.github.io/tags/</loc>
+  </url>
+  
+</urlset>
