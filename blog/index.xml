@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on gnana</title>
-    <link>https://gnana-tech.github.io/blog/</link>
+    <link>https://gnana.tech/blog/</link>
     <description>Recent content in Blogs on gnana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020</copyright>
     <lastBuildDate>Mon, 05 Oct 2020 07:07:07 +0530</lastBuildDate>
     
-	<atom:link href="https://gnana-tech.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gnana.tech/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>capitalizing with virtual captive teams</title>
-      <link>https://gnana-tech.github.io/blog/20201005-post_01/</link>
+      <link>https://gnana.tech/blog/20201005-post_01/</link>
       <pubDate>Mon, 05 Oct 2020 07:07:07 +0530</pubDate>
       
-      <guid>https://gnana-tech.github.io/blog/20201005-post_01/</guid>
+      <guid>https://gnana.tech/blog/20201005-post_01/</guid>
       <description>many organizations are offshoring some of their operations to a third-party vendor for a shorter period in order to minimize the overheads.</description>
     </item>
     
     <item>
       <title>women and work - transitioning towards technology</title>
-      <link>https://gnana-tech.github.io/blog/20200930-post_01/</link>
+      <link>https://gnana.tech/blog/20200930-post_01/</link>
       <pubDate>Wed, 30 Sep 2020 07:07:07 +0530</pubDate>
       
-      <guid>https://gnana-tech.github.io/blog/20200930-post_01/</guid>
+      <guid>https://gnana.tech/blog/20200930-post_01/</guid>
       <description>in many developing countries, the proportion of working women is very low, and even in developed countries, the figures are not sufficiently high.</description>
     </item>
     
     <item>
       <title>leveraging the lessons learned from covid-19</title>
-      <link>https://gnana-tech.github.io/blog/20200929-post_01/</link>
+      <link>https://gnana.tech/blog/20200929-post_01/</link>
       <pubDate>Tue, 29 Sep 2020 07:07:07 +0530</pubDate>
       
-      <guid>https://gnana-tech.github.io/blog/20200929-post_01/</guid>
+      <guid>https://gnana.tech/blog/20200929-post_01/</guid>
       <description>at the time of writing covid-19 still remains a pandemic with no demonstrated immunization or effective treatment close by.</description>
     </item>
     
